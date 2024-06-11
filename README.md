@@ -16,7 +16,3 @@ This is a React application that allows users to write and preview markdown text
 ## Live Demo
 
 You can view the live demo of the application [here](https://markdown-editor-preview.netlify.app/).
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
