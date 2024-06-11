@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import ReactMarkdown from 'react-markdown'
-import logo from './assets/react.svg'
 import './App.css'
 
 const defaultMarkdown = `
