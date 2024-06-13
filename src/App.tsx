@@ -48,7 +48,7 @@ function App() {
     <>
       <div className="header">
         <h1>Markdown Previewer</h1>
-        <p>Write markdown on the left and see the preview on the right</p>
+        <p>Write markdown and see the preview!</p>
       </div>
       <div className="container">
         <textarea
